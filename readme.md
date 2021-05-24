@@ -45,3 +45,17 @@
    </tr>
  </tbody>
  </table>
+
+==>> For User Crate, Send JSON as Raw(POST)
+{
+"id": 123,
+"name": "Test Name",
+"age": 100
+}
+
+==>> For User Update, Send JSON as Raw(PUT)
+    {
+    "id": 123,
+    "name": "Test Name 1",
+    "age": 100
+    }
