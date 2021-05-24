@@ -1,8 +1,5 @@
 # Build an API with Spring Boot
 
-**Tests for this code are available in the branch `with-tests`.** I have kept it separate
-to be consistent with the tutorial.
-  
 ## What you’ll build
  
  You’ll build a web service that can perform the actions specified in the table below.
